@@ -26,3 +26,7 @@ execute
 npm expo start
 
 now we can open our app in our mobile using EXPO application or in Android-Studio.
+
+![WhatsApp Image 2024-01-10 at 15 26 03_bef8dd77](https://github.com/sathwikbandaru/ToDo-Andriod/assets/95067127/3c89010e-1b1a-4be6-bf13-1019821de81c)
+
+![WhatsApp Image 2024-01-10 at 15 26 03_703e5987](https://github.com/sathwikbandaru/ToDo-Andriod/assets/95067127/d1459555-b1bc-4e19-900e-b3df150d6afa)
